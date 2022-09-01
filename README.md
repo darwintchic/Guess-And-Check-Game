@@ -1,0 +1,1 @@
+Guess and Check is a small app that help to think a number and check if the answer is right.It's a little game built in pure javascript and illustrates some manipulation technics with the DOM.
